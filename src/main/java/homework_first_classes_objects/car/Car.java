@@ -1,4 +1,4 @@
-package homework_first_classes_objects;
+package homework_first_classes_objects.car;
 
 public class Car {
     String brand;
