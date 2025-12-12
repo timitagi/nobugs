@@ -1,6 +1,5 @@
 package homework_first_classes_objects.circle;
 
-import java.util.PrimitiveIterator;
 
 public class Circle {
     private double radius;
