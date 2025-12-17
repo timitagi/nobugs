@@ -11,7 +11,8 @@ public class Main {
         System.out.println(employee1.companyName);
         System.out.println(employee2.companyName);
         System.out.println(employee3.companyName);
-        employee1.employeeID = 130;
+        // employee1.employeeID = 123; // ошибка компиляции: final поле
+
 
 
     }
