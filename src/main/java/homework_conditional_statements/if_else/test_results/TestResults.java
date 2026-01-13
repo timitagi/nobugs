@@ -1,4 +1,4 @@
-package homework_conditional_statements.test_results;
+package homework_conditional_statements.if_else.test_results;
 
 import java.util.Scanner;
 

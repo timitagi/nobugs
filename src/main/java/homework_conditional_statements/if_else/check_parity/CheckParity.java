@@ -1,4 +1,4 @@
-package homework_conditional_statements.check_parity;
+package homework_conditional_statements.if_else.check_parity;
 
 import java.util.Scanner;
 

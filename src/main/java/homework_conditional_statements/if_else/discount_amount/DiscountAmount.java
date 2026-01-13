@@ -1,4 +1,4 @@
-package homework_conditional_statements.discount_amount;
+package homework_conditional_statements.if_else.discount_amount;
 
 import java.util.Scanner;
 

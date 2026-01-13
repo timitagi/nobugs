@@ -1,4 +1,4 @@
-package homework_conditional_statements.largest_of_numbers;
+package homework_conditional_statements.if_else.largest_of_numbers;
 
 import java.util.Scanner;
 

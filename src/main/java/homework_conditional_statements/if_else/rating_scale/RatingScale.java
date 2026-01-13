@@ -1,4 +1,4 @@
-package homework_conditional_statements.rating_scale;
+package homework_conditional_statements.if_else.rating_scale;
 
 import java.util.Scanner;
 

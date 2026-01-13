@@ -1,4 +1,4 @@
-package homework_conditional_statements.sign_of_number;
+package homework_conditional_statements.if_else.sign_of_number;
 
 import java.util.Scanner;
 
