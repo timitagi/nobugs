@@ -1,9 +1,67 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.4">
   <diagram name="Страница-1" id="8SQ44o6jTMi371nih1L7">
-    <mxGraphModel>
+    <mxGraphModel dx="858" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ChoeP6nZo9RXj3DgagT1-5" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Classname" vertex="1">
+          <mxGeometry height="90" width="160" x="330" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ChoeP6nZo9RXj3DgagT1-7" parent="ChoeP6nZo9RXj3DgagT1-5" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ChoeP6nZo9RXj3DgagT1-8" parent="ChoeP6nZo9RXj3DgagT1-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="уход()&lt;div&gt;питание()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="56" width="160" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ChoeP6nZo9RXj3DgagT1-9" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Питомец" vertex="1">
+          <mxGeometry height="34" width="160" x="330" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ChoeP6nZo9RXj3DgagT1-11" parent="ChoeP6nZo9RXj3DgagT1-9" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ChoeP6nZo9RXj3DgagT1-27" edge="1" parent="1" source="ChoeP6nZo9RXj3DgagT1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ChoeP6nZo9RXj3DgagT1-13" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Кошка" vertex="1">
+          <mxGeometry height="80" width="160" x="100" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ChoeP6nZo9RXj3DgagT1-15" parent="ChoeP6nZo9RXj3DgagT1-13" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ChoeP6nZo9RXj3DgagT1-16" parent="ChoeP6nZo9RXj3DgagT1-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="уход()&lt;div&gt;питание()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="46" width="160" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ChoeP6nZo9RXj3DgagT1-17" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Собака" vertex="1">
+          <mxGeometry height="80" width="160" x="550" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ChoeP6nZo9RXj3DgagT1-19" parent="ChoeP6nZo9RXj3DgagT1-17" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ChoeP6nZo9RXj3DgagT1-20" parent="ChoeP6nZo9RXj3DgagT1-17" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="уход()&lt;div&gt;питание()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="46" width="160" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ChoeP6nZo9RXj3DgagT1-26" edge="1" parent="1" source="ChoeP6nZo9RXj3DgagT1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ChoeP6nZo9RXj3DgagT1-21" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Хозяин" vertex="1">
+          <mxGeometry height="110" width="160" x="340" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="ChoeP6nZo9RXj3DgagT1-22" parent="ChoeP6nZo9RXj3DgagT1-21" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Питомец" vertex="1">
+          <mxGeometry height="26" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ChoeP6nZo9RXj3DgagT1-23" parent="ChoeP6nZo9RXj3DgagT1-21" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="ChoeP6nZo9RXj3DgagT1-24" parent="ChoeP6nZo9RXj3DgagT1-21" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="установитьПитомца(Питомец)&lt;div&gt;взаимодействовать()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ChoeP6nZo9RXj3DgagT1-28" edge="1" parent="1" source="ChoeP6nZo9RXj3DgagT1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.675;entryY=-0.118;entryDx=0;entryDy=0;entryPerimeter=0;" target="ChoeP6nZo9RXj3DgagT1-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
