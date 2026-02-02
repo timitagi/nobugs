@@ -1,9 +1,63 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
   <diagram name="Страница-1" id="O-cHVMih6leSSaNu0PUH">
-    <mxGraphModel>
+    <mxGraphModel dx="892" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JjdQObFZenLB_GDrv1vZ-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Домашнее животное" vertex="1">
+          <mxGeometry height="100" width="160" x="330" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="JjdQObFZenLB_GDrv1vZ-3" parent="JjdQObFZenLB_GDrv1vZ-1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JjdQObFZenLB_GDrv1vZ-4" parent="JjdQObFZenLB_GDrv1vZ-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="уход()&lt;div&gt;кормление()&lt;/div&gt;&lt;div&gt;производить()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="66" width="160" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="JjdQObFZenLB_GDrv1vZ-5" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Ферма" vertex="1">
+          <mxGeometry height="130" width="160" x="334" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="JjdQObFZenLB_GDrv1vZ-6" parent="JjdQObFZenLB_GDrv1vZ-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="животное(Домашнее животное)" vertex="1">
+          <mxGeometry height="44" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JjdQObFZenLB_GDrv1vZ-7" parent="JjdQObFZenLB_GDrv1vZ-5" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JjdQObFZenLB_GDrv1vZ-8" parent="JjdQObFZenLB_GDrv1vZ-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="установитьЖивотное()&lt;div&gt;обслужитьЖивотное()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="52" width="160" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="JjdQObFZenLB_GDrv1vZ-9" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Курица" vertex="1">
+          <mxGeometry height="100" width="160" x="580" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JjdQObFZenLB_GDrv1vZ-11" parent="JjdQObFZenLB_GDrv1vZ-9" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JjdQObFZenLB_GDrv1vZ-19" edge="1" parent="JjdQObFZenLB_GDrv1vZ-9" source="JjdQObFZenLB_GDrv1vZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-150" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JjdQObFZenLB_GDrv1vZ-12" parent="JjdQObFZenLB_GDrv1vZ-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="уход() - кормушка&lt;div&gt;кормление() - ест зерно&lt;/div&gt;&lt;div&gt;производить() - дает яйца&lt;/div&gt;" vertex="1">
+          <mxGeometry height="66" width="160" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="JjdQObFZenLB_GDrv1vZ-13" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Корова" vertex="1">
+          <mxGeometry height="120" width="160" x="30" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JjdQObFZenLB_GDrv1vZ-15" parent="JjdQObFZenLB_GDrv1vZ-13" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JjdQObFZenLB_GDrv1vZ-18" edge="1" parent="JjdQObFZenLB_GDrv1vZ-13" source="JjdQObFZenLB_GDrv1vZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JjdQObFZenLB_GDrv1vZ-16" parent="JjdQObFZenLB_GDrv1vZ-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="уход() - выпас&lt;div&gt;кормление() - ест траву&lt;/div&gt;&lt;div&gt;производить() - дает молоко&lt;/div&gt;" vertex="1">
+          <mxGeometry height="86" width="160" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="JjdQObFZenLB_GDrv1vZ-17" edge="1" parent="1" source="JjdQObFZenLB_GDrv1vZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.581;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="JjdQObFZenLB_GDrv1vZ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
