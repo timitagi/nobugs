@@ -4,6 +4,54 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Gql10CbWt1VyOPySVEFH-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Растение" vertex="1">
+          <mxGeometry height="90" width="160" x="330" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Gql10CbWt1VyOPySVEFH-3" parent="Gql10CbWt1VyOPySVEFH-1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Gql10CbWt1VyOPySVEFH-4" parent="Gql10CbWt1VyOPySVEFH-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="уход()" vertex="1">
+          <mxGeometry height="56" width="160" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Gql10CbWt1VyOPySVEFH-5" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Ботанический сад" vertex="1">
+          <mxGeometry height="110" width="160" x="330" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="Gql10CbWt1VyOPySVEFH-6" parent="Gql10CbWt1VyOPySVEFH-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="растение:Растение" vertex="1">
+          <mxGeometry height="26" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Gql10CbWt1VyOPySVEFH-7" parent="Gql10CbWt1VyOPySVEFH-5" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Gql10CbWt1VyOPySVEFH-8" parent="Gql10CbWt1VyOPySVEFH-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="добавитьРастение()&lt;div&gt;обеспечитьУход()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gql10CbWt1VyOPySVEFH-9" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Кактус" vertex="1">
+          <mxGeometry height="90" width="160" x="590" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Gql10CbWt1VyOPySVEFH-11" parent="Gql10CbWt1VyOPySVEFH-9" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Gql10CbWt1VyOPySVEFH-12" parent="Gql10CbWt1VyOPySVEFH-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="уход() - много света и редкий полив&amp;nbsp;" vertex="1">
+          <mxGeometry height="56" width="160" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Gql10CbWt1VyOPySVEFH-13" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Орхидея" vertex="1">
+          <mxGeometry height="90" width="160" x="90" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Gql10CbWt1VyOPySVEFH-15" parent="Gql10CbWt1VyOPySVEFH-13" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Gql10CbWt1VyOPySVEFH-16" parent="Gql10CbWt1VyOPySVEFH-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="уход() - тень и высокая влажность" vertex="1">
+          <mxGeometry height="56" width="160" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Gql10CbWt1VyOPySVEFH-17" edge="1" parent="1" source="Gql10CbWt1VyOPySVEFH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.306;entryY=-0.044;entryDx=0;entryDy=0;entryPerimeter=0;" target="Gql10CbWt1VyOPySVEFH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gql10CbWt1VyOPySVEFH-18" edge="1" parent="1" source="Gql10CbWt1VyOPySVEFH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.594;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" target="Gql10CbWt1VyOPySVEFH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gql10CbWt1VyOPySVEFH-19" edge="1" parent="1" source="Gql10CbWt1VyOPySVEFH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="Gql10CbWt1VyOPySVEFH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
