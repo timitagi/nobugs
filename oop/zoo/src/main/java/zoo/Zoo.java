@@ -1,3 +1,5 @@
+package zoo;
+
 public class Zoo {
     Animal animal;
 
