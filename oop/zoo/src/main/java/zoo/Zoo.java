@@ -1,7 +1,7 @@
 package zoo;
 
 public class Zoo {
-    Animal animal;
+    private Animal animal;
 
     public void setAnimal(Animal animal){
         this.animal = animal;

@@ -1,6 +1,6 @@
 package zoo;
 
-abstract public class Animal {
-    abstract public void makeSound();
-    abstract public void move();
+public abstract class Animal {
+    public abstract void makeSound();
+    public abstract void move();
 }

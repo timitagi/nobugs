@@ -1,6 +1,6 @@
 package pet;
 
-abstract public class Pet {
-    abstract public void feed();
-    abstract public void interact();
+public abstract class Pet {
+     public abstract void feed();
+     public abstract void interact();
 }
