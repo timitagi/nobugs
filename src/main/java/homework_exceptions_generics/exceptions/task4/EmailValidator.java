@@ -1,4 +1,4 @@
-package homework_exceptions_generics.task4;
+package homework_exceptions_generics.exceptions.task4;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

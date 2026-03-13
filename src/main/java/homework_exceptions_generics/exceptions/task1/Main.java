@@ -1,4 +1,4 @@
-package homework_exceptions_generics.task1;
+package homework_exceptions_generics.exceptions.task1;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;

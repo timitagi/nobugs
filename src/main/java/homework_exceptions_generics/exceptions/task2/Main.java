@@ -1,4 +1,4 @@
-package homework_exceptions_generics.task2;
+package homework_exceptions_generics.exceptions.task2;
 
 import java.util.Scanner;
 
